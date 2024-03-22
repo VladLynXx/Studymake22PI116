@@ -1,0 +1,2 @@
+*Kazino_Royal
+*Kazino_Royal-dbg
